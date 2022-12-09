@@ -31,3 +31,5 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinen-rathore&" alt="jinen-rathore" /></p> -->
 
 ![snake gif](https://github.com/jinen-rathore/jinen-rathore/blob/output/github-contribution-grid-snake.gif)
+![snake gif](github-snake.svg#gh-light-mode-only)
+![snake gif](github-snake-dark.svg#gh-dark-mode-only)
