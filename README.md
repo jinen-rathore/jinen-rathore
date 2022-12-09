@@ -28,12 +28,9 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/jinen-rathore">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jinen-rathore&theme=noctis_minimus&show_icons=true" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jinen-rathore&theme=noctis_minimus&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinen-rathore&theme=noctis_minimus&layout=compact" />
   </a>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinen-rathore&show_icons=true&locale=en" alt="jinen-rathore" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinen-rathore&" alt="jinen-rathore" /></p> -->
 
 <h2> 🐍 &nbsp;Watch my contributions eaten by Snake</h2>
 
