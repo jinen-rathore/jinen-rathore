@@ -36,4 +36,5 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinen-rathore&" alt="jinen-rathore" /></p> -->
 
 <h2> 🐍 &nbsp;Watch my contributions eaten by Snake</h2>
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jinen-rathore/jinen-rathore/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
