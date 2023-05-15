@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **jinenrathore@gmail.com**
 
-- ⚡ Fun fact **Python is not named after the snake, but after the British TV show Monty Python's Flying Circus**
-
 <h2 align="left">🔗Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/jinen-rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jinen.rathore" height="30" width="40" /></a>
