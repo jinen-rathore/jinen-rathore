@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jinen</h1>
 <h3 align="center">Nice to Meet you!</h3>
 
-
+![mario gif](https://github.com/jinen-rathore/jinen-rathore/blob/main/gif/mario.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinen-rathore&label=Profile%20views&color=0e75b6&style=flat" alt="jinen-rathore" /> </p>
 
